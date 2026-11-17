@@ -3,10 +3,17 @@ Ghostbusters VR is a free fan-made mod that lets you play Ghostbusters: The Vide
 Basic controls:
 
 Walk: left stick. Sprint: click the left stick.
+
 Turn: flick the right stick left or right.
+
 Jump: B. Use / pick up: A.
+
 Fire the gun: right trigger. Alternate fire: left trigger.
+
 Catch a ghost: click the right stick. Throw the trap: X.
+
 Switch weapon: hold A, push the right stick toward a weapon, then let go.
+
 PKE meter: Y.
+
 Menu: hold your left hand beside your left ear and squeeze the left grip.
